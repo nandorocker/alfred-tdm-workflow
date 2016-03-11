@@ -14,7 +14,7 @@ I also added laptop's RSA to the authorized_keys list.
 ### Laptop
 I connect to the iMac (hardwired address) and run that shell script:
 
-	ssh -t minotaur@gilgamesh.fritz.box "sh ~/bin/tdm.sh"
+	ssh -t user@imac.local "sh ~/bin/tdm.sh"
 	
 ## Goals
 
